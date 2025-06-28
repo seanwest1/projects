@@ -1,5 +1,4 @@
-### Project Title
-* **Riskassess CSV to Outlook Calendar Converter**
+### Riskassess CSV to Outlook Calendar Converter
 
 ### Project Description
 * This Python script automates the conversion of CSV files downloaded from `www.riskassess.com.au` into a format that can be easily imported into Microsoft Outlook Calendar. It streamlines the process of adding your lab or experiment schedules to your personal calendar making them much easier to visualise.
